@@ -1,0 +1,3 @@
+Cairo,one way,dep: 12/12/2012 return: 14/12/2012
+Aswan,round trip,dep: 11/11/2011 return: 13/11/2011
+Suez,one way,dep: 11/11/2020 return: 15/11/2020
